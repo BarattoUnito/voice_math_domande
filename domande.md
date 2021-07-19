@@ -6,4 +6,5 @@ A seguire possiamo aggiungere all'elenco le nostre domande; la speranza è che, 
 1. Come si distingue un audio accettabile da un audio pessimo? Potete per favore fornire un criterio oggettivo per la vostra suddivisione qualitativa tra gold, silver e copper? 
 Questo criterio è fondamentale per poter attuare un eventuale preprocessing agli audio. 
 2. Distanza di Lehvenstein con Word Error Rate e Character Error Rate. Sarebbe utile un esempio di come avete applicato queste metriche, visto che non considerate necessario l'allineamento tra testi.
-3. Se risulta evidente che la baseline ( Google ) è migliore, non sarebbe forse il caso di utilizzare la baseline stessa?
+3. Sempre rispetto alla distanza di Lehvenstein, mi pare di aver capito che il confronto avvenga su una certa porzione di testo compresa tra due punti fermi, anche senza allineamento tra i due testi. Tuttavia, nel confronto tra una trascrizione "umana" e una trascrizione automatica, è possibile che nei due testi la punteggiatura sia inserita in maniera sensibilmente differente. Come si è ovviato al problema?
+4. 4. Se risulta evidente che la baseline ( Google ) è migliore, non sarebbe forse il caso di utilizzare la baseline stessa?
